@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="10" y1="10" x2="70" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAE3D7" />
+      <stop offset="0.5" stop-color="#B69A63" />
+      <stop offset="1" stop-color="#B66A4B" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(10, 10)">
+    <circle cx="30" cy="30" r="28" stroke="url(#g1)" stroke-width="2" stroke-dasharray="2 2" opacity="0.6" />
+    <path d="M 12 30 C 12 18, 24 14, 30 14 C 36 14, 48 18, 48 30 C 48 42, 36 46, 30 46 C 24 46, 12 42, 12 30 Z" stroke="url(#g1)" stroke-width="2.5" />
+    <path d="M 18 18 L 42 42 M 42 18 L 18 42" stroke="#B69A63" stroke-width="2" opacity="0.8" />
+    <circle cx="30" cy="30" r="4" fill="#B66A4B" />
+  </g>
+  <text x="85" y="44" font-family="Georgia, serif" font-size="28" font-weight="600" fill="#F7F4ED" letter-spacing="3">SPHEREO</text>
+  <text x="86" y="58" font-family="system-ui, sans-serif" font-size="9" font-weight="500" fill="#EAE3D7" letter-spacing="4">ARTISAN STUDIO</text>
+</svg>

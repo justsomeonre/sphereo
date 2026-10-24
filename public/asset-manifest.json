@@ -1,0 +1,26 @@
+{
+  "brandAssets": {
+    "symbol": "/brand/sphereo-symbol.svg",
+    "logoLight": "/brand/sphereo-logo-light.svg",
+    "logoDark": "/brand/sphereo-logo-dark.svg",
+    "favicon": "/favicon.svg"
+  },
+  "craftHeroCovers": [
+    { "craftId": "craft-lac-bangles", "url": "https://images.unsplash.com/photo-1611591475879-1f4803975073", "type": "remote_curated" },
+    { "craftId": "craft-blue-pottery", "url": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61", "type": "remote_curated" },
+    { "craftId": "craft-pottery-ceramics", "url": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261", "type": "remote_curated" },
+    { "craftId": "craft-handloom-textiles", "url": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d", "type": "remote_curated" },
+    { "craftId": "craft-embroidery", "url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3", "type": "remote_curated" },
+    { "craftId": "craft-woodcraft", "url": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38", "type": "remote_curated" },
+    { "craftId": "craft-metalwork-dhokra", "url": "https://images.unsplash.com/photo-1534447677768-be436bb09401", "type": "remote_curated" },
+    { "craftId": "craft-block-printing", "url": "https://images.unsplash.com/photo-1544816155-12df9643f363", "type": "remote_curated" },
+    { "craftId": "craft-handwoven-baskets", "url": "https://images.unsplash.com/photo-1590736969955-71cc94801759", "type": "remote_curated" },
+    { "craftId": "craft-leathercraft", "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62", "type": "remote_curated" },
+    { "craftId": "craft-jewelry", "url": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908", "type": "remote_curated" },
+    { "craftId": "craft-paper-paintings", "url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675", "type": "remote_curated" }
+  ],
+  "seededArtisanCount": 40,
+  "seededProductCount": 300,
+  "curatedStoriesCount": 4,
+  "assetPolicy": "Curated editorial photography mapped by craft category with responsive fallbacks and SVG vector branding. Zero watermarks, zero third-party copyright emblems."
+}
